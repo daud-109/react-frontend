@@ -1,0 +1,61 @@
+h1 {
+  text-align: center;
+  width: 100%;
+  font-weight: bolder;
+}
+
+.businessSearch div {
+  text-align: center;
+}
+.businessSearch th {
+  text-align: left;
+  padding: 8px;
+  font-weight: 700;
+  color: whitesmoke;
+  background-color: #007bff;
+}
+
+.businessSearch td {
+  text-align: left;
+  padding: 8px;
+  font-weight: 700;
+}
+
+*.t1 {
+  max-height: 800px;
+  max-width: 1600px;
+  overflow-y: scroll;
+  table-layout: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  border: 1px solid #ddd;
+}
+.businessSearch label {
+  font-weight: bold;
+  padding-top: 20px;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+.businessSearch input {
+  max-width: 50%;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: #000000;
+  margin: auto;
+}
+
+.businessSearch select {
+  max-width: 50%;
+  border-width: 2px;
+  border-color: #000000;
+  font-weight: bold;
+  margin: auto;
+}
+.businessSearch button {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
